@@ -5,10 +5,10 @@ Card này đi kèm mỗi báo cáo đánh giá và được lưu trữ phục v�
 ---
 
 ## 1. Thông tin phiên bản & Định danh
-- **Run ID:** `E-swarm-20261118-6090` (Baseline v1) / `E-swarm-20261118-c7bf` (Baseline v2)
+- **Run ID:** `E-swarm-20261118-3e0d` (Baseline v1) / `E-swarm-20261118-55ef` (Baseline v2)
 - **Eval Set SHA:**
-  - Eval Set v1: `609004ee2a80`
-  - Eval Set v2: `c7bf5928914f`
+  - Eval Set v1: `3e0d5b5397bb`
+  - Eval Set v2: `55efa6908d9e`
 - **Phiên bản hệ thống:**
   - Code commit: `7e7c776` (starter/d09)
   - Eval set: v1 (14 items × 5 seeds: 11, 22, 33, 44, 55; labels: `labels_v1.json`)
